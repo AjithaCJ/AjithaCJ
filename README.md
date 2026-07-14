@@ -1,35 +1,53 @@
 # Hi there, I'm Ajith! 👋
+### Senior SDET / Software QA Automation Specialist
 
-I am a **QA Automation & Manual Testing Specialist** with a strong focus on ensuring software quality, testing APIs, and building robust automation workflows. 
-
-To deepen my understanding of development cycles, database integrations, and full-stack architecture, I independently built, tested, and deployed an interactive web application from scratch.
-
----
-
-### 🛠️ My Technical Toolbox
-
-- **Testing Tools & Expertise:** API Testing, Manual Testing, Test Case Execution, Defect Tracking
-- **Frontend Development:** HTML5, CSS3, JavaScript (ES6)
-- **Backend & Databases:** Node.js, Supabase (Cloud DB), SQLite
-- **DevOps & Tools:** Git, GitHub, VS Code, Netlify CI/CD
+I specialize in building scalable test automation frameworks, executing comprehensive API/UI testing, and driving CI/CD quality gates. 
 
 ---
 
-### 🕹️ Practical Development Project
+## 🛠️ Technical Skill Set
 
-#### 🌲 Forest Mouse Game
-An interactive, responsive web-based chase game featuring a nocturnal forest theme. I designed this project to master real-world frontend logic, state management, and third-party backend cloud streaming.
-- **Live Demo:** [Play the Game Here](https://cheery-torte-8aa4d9.netlify.app)
-- **Codebase:** [View GitHub Repository](https://github.com/AjithaCJ/forest-mouse-game)
-
-**Key Features & Architecture Implemented:**
-- **Dynamic Interaction:** Custom cursor mechanics for responsive user-to-element interactions.
-- **Cloud Database Integration:** Full connection to **Supabase** for secure, real-time data handling and storage.
-- **Hidden Admin Tooling:** Built a secure, hidden admin dashboard triggered via global keyboard shortcuts (`Ctrl + Shift + Y`) to pull and monitor active data directly from the database.
-- **Automated Deployment:** Implemented continuous integration via **Netlify** to manage live code updates flawlessly.
+* **Automation Tools:** Selenium WebDriver 4, REST Assured, Cucumber BDD, TestNG, Maven
+* **Languages & Scripting:** Java, JavaScript (ES6), SQL, Gherkin
+* **Reporting & Logging:** ExtentReports 5, TestNG Reports, SLF4J, Log4j
+* **CI/CD & Version Control:** GitHub Actions, Git, Netlify
+* **API & Database Testing:** Postman, REST Assured, Supabase Cloud DB, SQLite, JSON/XML Parsing
 
 ---
 
-### 📈 Let's Connect!
-- **LinkedIn:** [https://www.linkedin.com/in/ajith-cj]
-- **Email:** [Ajithcj.in@gmail.com]
+## 🚀 Key Automation Frameworks (Portfolio)
+
+### 1. ⚙️ [Enterprise Hybrid Automation Framework](https://github.com/AjithaCJ/SauceDemo-Hybrid-Automation-Framework)
+> **Stack:** Java, Selenium WebDriver 4, TestNG, ExtentReports, Data-Driven (@DataProvider), GitHub Actions
+* Built a parallel-execution cross-browser framework integrated with **ExtentReports 5** for interactive HTML logging and automated screenshot capture on failure.
+* Configured **GitHub Actions CI/CD pipeline** (`testng.yml`) for automated regression runs on every code push.
+
+### 2. 🥒 [Cucumber BDD Test Automation Framework](https://github.com/AjithaCJ/SauceDemo-Cucumber-BDD-Framework)
+> **Stack:** Java, Cucumber, Gherkin, Selenium WebDriver, TestNG, Maven
+* Designed human-readable Gherkin feature files utilizing Scenarios, Scenario Outlines, and Data Tables.
+* Built modular step definitions mapping BDD specifications directly to Selenium browser interactions.
+
+### 3. 🌐 [SauceDemo UI Automation Framework](https://github.com/AjithaCJ/SauceDemo-UI-Automation-Framework)
+> **Stack:** Java, Selenium 4, Page Object Model (POM), TestNG, Maven
+* Implemented strict Page Object Model design patterns separating UI locators from test logic.
+* Engineered robust synchronization strategies using Explicit Waits to eliminate test flakiness.
+
+### 4. 🔌 [CatAPI API Automation Framework](https://github.com/AjithaCJ/CatAPI-Automation-Framework)
+> **Stack:** Java, REST Assured, TestNG, JSONPath, Jackson
+* Automated end-to-end RESTful API endpoints validating status codes, headers, and dynamic JSON response bodies.
+
+---
+
+## 🕹️ Full-Stack & Practical Development Project
+
+### 🌲 [Forest Mouse Game](https://github.com/AjithaCJ/forest-mouse-game)
+> **Stack:** HTML5, CSS3, JavaScript, Node.js, Supabase Cloud DB, Netlify CI/CD
+* Built and deployed an interactive web application from scratch to master real-world frontend logic, state management, and cloud database streams.
+* Integrated Supabase for real-time leaderboards and created hidden admin tools via keyboard shortcut hooks.
+
+---
+
+## 📈 Connect With Me
+
+* **LinkedIn:** [linkedin.com/in/ajith-cj](https://www.linkedin.com/in/ajith-cj)
+* **Email:** [Ajithcj.in@gmail.com](mailto:Ajithcj.in@gmail.com)
